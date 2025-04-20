@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StartConfigurator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8681a3441748bcf493158ef208505c30ac65f48f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e35610cc75bad01d09a22f9ec67a143747d8a8ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("StartConfigurator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StartConfigurator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
